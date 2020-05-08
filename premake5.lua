@@ -44,7 +44,6 @@ project "glfw"
 
 		links { "pthread" }
 
-
 	filter "system:windows"
 		systemversion "latest"
 		staticruntime "On"
