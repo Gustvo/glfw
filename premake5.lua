@@ -42,9 +42,12 @@ project "glfw"
             "_GLFW_BUILD_DLL"
 		}
 
+<<<<<<< HEAD
 		links { "pthread" }
 
 
+=======
+>>>>>>> e4bac2dbdaf99938deae76af8817f3b57437c957
 	filter "system:windows"
 		systemversion "latest"
 		staticruntime "On"
